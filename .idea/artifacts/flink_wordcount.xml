@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flink-wordcount">
+    <output-path>$PROJECT_DIR$/out/artifacts/flink_wordcount</output-path>
+    <root id="archive" name="flink-wordcount.jar">
+      <element id="module-output" name="bigdataStu" />
+    </root>
+  </artifact>
+</component>
